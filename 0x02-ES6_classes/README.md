@@ -1,18 +1,6 @@
  ﻿![](Top.png)
 
 
-# Requirements
-
-## General
-
-> - All your files will be executed on Ubuntu 18.04 LTS using NodeJS 12.11.x
-> - Allowed editors: vi, vim, emacs, Visual Studio Code
-> - All your files should end with a new line
-> - A README.md file, at the root of the folder of the project, is mandatory
-> - Your code should use the js extension
-> - Your code will be tested using Jest and the command npm run test
-> - Your code will be verified against lint using ESLint
-> - Your code needs to pass all the tests and lint. You can verify the entire project running npm run full-test
 
 ## Setup
 
@@ -136,7 +124,7 @@ Don’t forget to run $ npm install when you have the package.json
 ## Task
 
 **0. You used to attend a place like this at some point**
-File: [0-classroom.js](0-classroom.js/) - [0-main.js](0-main.js/)
+File: [0-classroom.js](0-classroom.js/) 
 
 Implement a class named ClassRoom:
 
@@ -157,7 +145,7 @@ bob@dylan:~$
 ```
 
 **1. Let's make some classrooms**
-File: [1-make_classrooms.js](1-make_classrooms.js/) - [1-main.js](1-main.js/)
+File: [1-make_classrooms.js](1-make_classrooms.js/) 
 
 Import the ClassRoom class from 0-classroom.js.
 
@@ -180,7 +168,7 @@ bob@dylan:~$
 ```
 
 **A Course, Getters, and Setters**
-File: [2-hbtn_course.js](2-hbtn_course.js/) - [2-main.js](2-main.js/)
+File: [2-hbtn_course.js](2-hbtn_course.js/) 
 
 Implement a class named HolbertonCourse:
 
@@ -231,7 +219,7 @@ bob@dylan:~$
 ```
 
 **3. Methods, static methods, computed methods names..... MONEY**
-File: [3-currency.js](3-currency.js/) - [3-main.js](3-main.js/)
+File: [3-currency.js](3-currency.js/) 
 
 Implement a class named Currency:
 
@@ -256,7 +244,7 @@ bob@dylan:~$
 ```
 
 **4. Pricing**
-File: [4-pricing.js](4-pricing.js/) - [4-main.js](4-main.js/)
+File: [4-pricing.js](4-pricing.js/) 
 
 Import the class Currency from 3-currency.js
 
@@ -290,7 +278,7 @@ bob@dylan:~$
 ```
 
 **5. A Building**
-File: [5-building.js](5-building.js/) - [5-main.js](5-main.js/)
+File: [5-building.js](5-building.js/) 
 
 Implement a class named Building:
 
@@ -326,8 +314,7 @@ bob@dylan:~$
 ```
 
 **6. Inheritance**
-File: [6-sky_high.js](6-sky_high.js/) - [6-main.js](6-main.js/)
-
+File: [6-sky_high.js](6-sky_high.js/) 
 Import Building from 5-building.js.
 
 Implement a class named SkyHighBuilding that extends from Building:
@@ -357,7 +344,7 @@ bob@dylan:~$
 ```
 
 **7. Airport**
-File: [7-airport.js](7-airport.js/) - [7-main.js](7-main.js/)
+File: [7-airport.js](7-airport.js/) 
 
 Implement a class named Airport:
 
@@ -383,7 +370,7 @@ bob@dylan:~$
 ```
 
 **8. Primitive - Holberton Class**
-File: [8-hbtn_class.js](8-hbtn_class.js/) - [8-main.js](8-main.js/)
+File: [8-hbtn_class.js](8-hbtn_class.js/) 
 
 Implement a class named HolbertonClass:
 
@@ -410,7 +397,7 @@ bob@dylan:~$
 ```
 
 **9. Hoisting**
-File: [9-hoisting.js](9-hoisting.js/) - [9-main.js](9-main.js/)
+File: [9-hoisting.js](9-hoisting.js/) 
 
 Fix this code and make it work.
 
@@ -499,7 +486,7 @@ bob@dylan:~$
 ```
 
 **10. Vroom**
-File: [10-car.js](10-car.js/) - [10-main.js](10-main.js/)
+File: [10-car.js](10-car.js/) 
 
 Implement a class named Car:
 
@@ -540,7 +527,7 @@ bob@dylan:~$
 ```
 
 **11. EVCar**
-File: [100-evcar.js](100-evcar.js/) - [100-main.js](100-main.js/)
+File: [100-evcar.js](100-evcar.js/)
 
 Implement a class named Car:
 
