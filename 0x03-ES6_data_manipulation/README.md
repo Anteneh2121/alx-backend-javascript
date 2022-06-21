@@ -126,6 +126,7 @@ Don’t forget to run $ npm install when you have the package.json
 
 **0. Basic list of objects**
 File: [0-get_list_students.js](0-get_list_students.js/)
+
 Create a function named getListStudents that returns an array of objects.
 
 Each object should have three attributes: id (Number), firstName (String), and location (String).
@@ -180,6 +181,7 @@ bob@dylan:~$
 
 **2. Filter**
 File: [2-get_students_by_loc.js](2-get_students_by_loc.js/) 
+
 Create a function getStudentsByLocation that returns an array of objects who are located in a specific city.
 
 It should accept a list of students (from getListStudents) and a city (string) as parameters.
@@ -282,6 +284,7 @@ bob@dylan:~$
 
 **5. Typed Arrays**
 File: [5-typed_arrays.js](5-typed_arrays.js/) 
+
 Create a function named createInt8TypedArray that returns a new ArrayBuffer with an Int8 value at a specific position.
 
 It should accept three arguments: length (Number), position (Number), and value (Number).
@@ -406,6 +409,7 @@ bob@dylan:~$
 
 **10. More map data structure**
 File: [10-update_uniq_items.js](10-update_uniq_items.js/) 
+
 Create a function named updateUniqueItems that returns an updated map for all items with initial quantity at 1.
 
 It should accept a map as an argument. The map it accepts for argument is similar to the map you create in the previous task.
@@ -444,6 +448,7 @@ bob@dylan:~$
 
 **11. Weak link data structure**
 File: [100-weak.js](100-weak.js/) 
+
 Export a const instance of WeakMap and name it weakMap.
 
 Export a new function named queryAPI. It should accept an endpoint argument like so:
